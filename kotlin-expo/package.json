@@ -1,0 +1,23 @@
+{
+  "name": "kotlin-expo",
+  "version": "0.0.1",
+  "description": "Kotlin wrapper for Expo library",
+  "files": [
+    "build/classes",
+    "package.json"
+  ],
+  "main": "build/classes/main/kotlin-expo.js",
+  "repository": "https://github.com/kgmyshin/elektron",
+  "peerDependencies": {
+    "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
+    "react": "16.6.0",
+    "kotlin": "^1.3.21"
+  },
+  "devDependencies": {
+    "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
+    "react": "16.6.0",
+    "kotlin": "^1.3.21"
+  },
+  "author": "kgmyshin",
+  "license": "Apache-2-0"
+}

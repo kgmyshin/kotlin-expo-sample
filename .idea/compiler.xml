@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="expo-sample.@kgmyshin_kotlin-expo.main" target="1.9" />
+      <module name="expo-sample.@kgmyshin_kotlin-expo.test" target="1.9" />
+      <module name="expo-sample.expo.main" target="1.9" />
+      <module name="expo-sample.expo.test" target="1.9" />
+      <module name="expo-sample.elektron.main" target="1.9" />
+      <module name="expo-sample.elektron.test" target="1.9" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
